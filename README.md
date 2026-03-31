@@ -1,6 +1,5 @@
 # Python-Library-REST-API
-Python Library REST API
-Un’applicazione REST API in Python per gestire una piccola biblioteca: permette di visualizzare il catalogo, registrare utenti, noleggiare e restituire libri. Include anche un’interfaccia a riga di comando (CLI) per interagire con l’API.
+Python Library REST API è un’applicazione REST API in Python per gestire una piccola biblioteca: permette di visualizzare il catalogo, registrare utenti, noleggiare e restituire libri. Include anche un’interfaccia a riga di comando (CLI) per interagire con l’API.
 
 ## Caratteristiche
 -	Visualizzazione del catalogo libri e dei libri attualmente noleggiati.
